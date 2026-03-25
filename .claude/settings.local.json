@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"/Users/k4195255/Library/CloudStorage/OneDrive-共有ライブラリ-\\(有\\)鈴真設計/Switch ROM 共有 - 課題/cert-coach/\")",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack)",
+      "Bash(printf \"No\\\\nNo\\\\n\")",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack --yes)",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init --yes --defaults)",
+      "Bash(claude mcp:*)",
+      "Bash(claude plugin:*)",
+      "Bash(bash install.sh typescript)",
+      "Bash(npm run:*)",
+      "Bash(gh repo:*)"
+    ]
+  }
+}
